@@ -1,0 +1,16 @@
+Dataset: https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf 
+Dicionário de dados: https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dicionario-acidentes
+
+
+
+https://pysubgroup.readthedocs.io/en/latest/
+https://github.com/UdayLab/PAMI
+https://cran.r-project.org/web/packages/arules/index.html
+https://rasbt.github.io/mlxtend/user_guide/frequent_patterns/fpgrowth/
+https://docs.biolab.si/orange/2/reference/rst/Orange.associate.html
+https://github.com/tarcisiodpl/ssdp
+https://github.com/rvimieiro/EsmamDS
+https://github.com/HMProenca/SSDpp-numeric
+https://www.philippe-fournier-viger.com/spmf/
+https://datamining.liacs.nl/cortana.html
+https://snap.stanford.edu/frequent-subgraph-mining/
